@@ -1,0 +1,17 @@
+{
+    "RGuardMain": "",
+    "MongoConnectURL": "",
+    "RGuardStatus": "",
+    "guildID": "",
+    "logChannel": "",
+
+    "WhiteList":
+    [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ]
+}
